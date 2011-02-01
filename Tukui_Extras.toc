@@ -1,0 +1,11 @@
+## Interface: 40000
+## Title: |cffC495DDTukui Extras|r
+## Notes: Some useful scripts for Tukui
+## Author: Affli
+## Version: 1.00
+## RequiredDeps: Tukui
+
+mail.lua
+spam.lua
+addons.lua
+
